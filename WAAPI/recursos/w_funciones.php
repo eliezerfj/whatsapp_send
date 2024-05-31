@@ -7,7 +7,6 @@ $idInstance = 11111; // tu id de la instancia creada
 $rutaImagen = 'https://midominio.com/admin/public/media/'; // ruta de donde quieres traer una imagen
 
 
-
 //función donde estamos preparando un envío de mensajes
 function enviarMensajeWhatsapp($datosMensaje, $apiToken, $client, $idInstance)
 {
