@@ -8,7 +8,6 @@
  * usuario en la dirección anterior y suscribirte a uno de los *
  * planes disponibles.                                         *
  *                                                             *
- * https://www.linkedin.com/in/ee-figueroa/                    *
  * Eliezer Figueroa                                            *
  * Mayo 2024                                                   *
  **************************************************************/
